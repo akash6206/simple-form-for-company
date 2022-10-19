@@ -2,12 +2,12 @@
 
 # About me
 Name : Akash kumar gupta  ,  UID 21MCA2425, this is for company purpose 
-tools and technology 
+
+
+# tools and technology 
     Front-end : Html ,CSS,javaScript 
     Backend : node js
     Database: mongoDB
-
-
 
 # Steps to run our project
     Create an account on mongoDB 

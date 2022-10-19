@@ -19,7 +19,7 @@ tools and technology
         NPM start (run our project  port on  3003)
 
 
-Task how work 
+# Task how work 
     First user can register himself 
     Then they can login through their credentials  
     It will redirect to the homepage

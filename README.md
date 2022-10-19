@@ -8,8 +8,8 @@ tools and technology
 
 
 # Steps to run our project
-    Create an account on mongoDB <br />
-    Create database on that <br/>
+    Create an account on mongoDB 
+    Create database on that 
     Mongodb generate a link to connect database paste into app.js
     Open project 
     Start terminal  and write 

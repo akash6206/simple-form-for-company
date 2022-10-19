@@ -7,7 +7,7 @@ tools and technology
 
 
 
-Steps to run our project 
+Steps to run our project
     Create an account on mongoDB
     Create database on that
     Mongodb generate a link to connect database paste into app.js

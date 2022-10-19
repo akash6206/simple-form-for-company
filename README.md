@@ -19,6 +19,7 @@ tools and technology
         Npm install mongoose
         Npm install express
         NPM start (run our project  port on  3003)
+        got browse open http://localhost:3003/
 
 
 # Task how work 
